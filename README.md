@@ -1,4 +1,4 @@
-# Arquitetura de computadores (Computer Architecture)
+# <img width="30px" align="center" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg"/> Arquitetura de computadores (Computer Architecture)
 
 **Portuguese:**
 
